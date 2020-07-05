@@ -29,13 +29,13 @@
   ],
   "dependencies": {
     "anymatch": "^2.0.0",
-    "@babel/core": "^7.0.0",
-    "@babel/preset-env": "^7.0.0",
+    "@babel/core": "~7.10",
+    "@babel/preset-env": "~7.10",
     "loggy": "^1.0.3"
   },
   "devDependencies": {
     "babel-plugin-transform-node-env-inline": "^0.4.3",
-    "@babel/plugin-transform-template-literals": "^7.7.4",
+    "@babel/plugin-transform-template-literals": "~7.10",
     "chai": "^4.2.0",
     "eslint": "^6.7.0",
     "eslint-config-brunch": "^1.1.0",
